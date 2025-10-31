@@ -65,8 +65,8 @@ Design a modern UI with Shadcn/UI components and Tailwind v4.
 
 📸 Preview
 
-(Add your generated image here)
 ![Whop AI Real-Time Chat App](./assets/redme.png)
+
 
 🧑‍💻 Developer
 
